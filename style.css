@@ -1,0 +1,27 @@
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  
+  .jumbotron {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 30px;
+  }
+  
+  #song-heading {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-size: 24px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  canvas {
+    border: 2px solid white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+  }
